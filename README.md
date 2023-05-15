@@ -21,7 +21,7 @@
     <div>
       - :telescope: I’m computer science student at Gdańsk University of Tecnology.<br><br>
       - :brain: I’m interested in artificial intelligence.<br><br>
-      - :chess_pawn: In my free time, I play chess.<br><br>
+      - :chess_pawn: In my free time, I play chess. <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fasd%2Fstats'/> <br><br>
       - :mailbox: How to reach me: <a href='mailto:kubastach2001@gmail.com'>kubastach2001@gmail.com</a>
     </div>
   </div>
@@ -51,7 +51,5 @@
   <h3> :fire: My stats: </h3>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikitomi21&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  <br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikitomi21&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
