@@ -23,7 +23,7 @@
       - :brain: I’m interested in artificial intelligence.<br><br>
       - :chess_pawn: In my free time, I play chess. 
       <a href="https://www.chess.com/stats/overview/mikitomi21?">
-        <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_daily.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fasd%2Fstats'/>
+        <img align='center' src='https://img.shields.io/badge/dynamic/json?label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2Fmikitomi21%2Fstats'/>
       </a><br><br>
       - :mailbox: How to reach me: <a href='mailto:kubastach2001@gmail.com'>kubastach2001@gmail.com</a>
     </div>
