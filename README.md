@@ -20,6 +20,7 @@
     <h3> :man_technologist: About me:</h3>
     <div>
       - :telescope: I’m computer science student at Gdańsk University of Tecnology.<br><br>
+      - :snake: I work as a Python Developer.<br><br>
       - :brain: I’m interested in artificial intelligence.<br><br>
       - :chess_pawn: In my free time, I play chess. 
       <a href="https://www.chess.com/stats/overview/mikitomi21?">
